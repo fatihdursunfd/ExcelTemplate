@@ -4,17 +4,19 @@ Bu proje, EPPlus kütüphanesini kullanarak Excel dosyaları oluşturmak ve düz
 
 ## Özellikler
 
-- Yeni bir Excel dosyası oluşturma
-- Çalışma sayfası ekleme ve stil uygulama
-- Sütun adları ekleme
-- Hücrelere stil ve validasyon ekleme
-- Açılır listeler (dropdown) ve bağımlı açılır listeler oluşturma
+- Excel dosyası oluşturma ve kaydetme
+- Sayfa ekleme ve stil ayarları
+- Sütun ekleme
+- Açılır liste(dropdown) ekleme.
+- Bağımlı açılır listeler oluşturma
+- Hücrelere validasyon ekleme
 - Hücrelere yorum ekleme
 - Hücreleri birleştirme
 - Çalışma sayfasını şifre ile koruma
 - Hücrelere formül ekleme
 - Koşullu biçimlendirme ekleme
-- Hücre değerlerini okuma ve yazma
+- Hücreleri biçimlendirme
+- Hücre değerleri okuma ve yazma
 
 ## Gereksinimler
 
