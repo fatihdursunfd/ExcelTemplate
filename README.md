@@ -76,10 +76,7 @@ _excelUtilities.Dispose();
 
 Katkıda bulunmak isterseniz, lütfen bir pull request gönderin veya bir sorun (issue) açın.
 
-## Lisans
-
-Bu proje MIT Lisansı ile lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakın.
 
 ## İletişim
 
-Herhangi bir sorunuz veya geri bildiriminiz varsa, lütfen [fatih.dursun.616@gmail.com](mailto:fatih.dursun.616@gmail.com) adresinden benimle iletişime geçin.
+Herhangi bir sorunuz veya geri bildiriminiz varsa, lütfen fatih.dursun.616@gmail.com adresinden benimle iletişime geçin.
